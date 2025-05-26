@@ -1,0 +1,6 @@
+pyserial
+opencv-python
+ultralytics
+numpy
+streamlit
+pandas
